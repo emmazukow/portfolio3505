@@ -8,7 +8,7 @@ I am a 3rd year undergraduate student at Dalhousie University completing a neuro
 email: ezukow@dal.ca
 
 ## Describing Data
-[Describing Data[(Describing Data.ipynb)
+[Describing Data](Describing Data.ipynb)
 
 ## Filtering MEG Data
 
