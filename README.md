@@ -8,7 +8,7 @@ I am a 3rd year undergraduate student at Dalhousie University completing a neuro
 email: ezukow@dal.ca
 
 ## Describing Data
-I am able to use built in Python functions as well as functions of numpy to provide [describing data](Describing Data.ipynb) for a particular data set. In the example provided I am able to find the maximum, minimum, mean, and standard deviation for a data set. These values can be extremely useful when understanding the shape of the data as well as for further calculations. 
+I am able to use built in Python functions as well as functions of numpy to provide [describing data](DescribingData.html) for a particular data set. In the example provided I am able to find the maximum, minimum, mean, and standard deviation for a data set. These values can be extremely useful when understanding the shape of the data as well as for further calculations. 
 
 ## Filtering MEG Data
 
