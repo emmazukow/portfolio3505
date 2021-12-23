@@ -13,7 +13,7 @@ I am able to use built in Python functions as well as functions of numpy to prov
 ## Filtering MEG Data
 Through experience in the Biosignal Lab I have learnt how to analyze raw MEG data with an important step as [filtering](Filter.html) the data so that we are only looking at the frequency range of interest. In this example you can see that we are interested in signals between 1-70 Hz with an exclusion of 60 Hz. 
 
-## Creating a panda 
+## Creating a Panda Series
 In this example I assigned variables to a unique [panda series](Panda.html) series created from a larger data frame which can then be used for other calculations, such as a t-test. 
 
 ## Plotting MEG Data 
